@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "943081812698",
+    "project_id": "scanner-app-6f6a4",
+    "storage_bucket": "scanner-app-6f6a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943081812698:android:d8ecfec00dbbe98c6dabe3",
+        "android_client_info": {
+          "package_name": "com.example.farmicon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLxVEjFHHaslb_SexvZyD9O3oPAX8zpEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
